@@ -1,0 +1,16 @@
+# Unity generated
+Library/
+Temp/
+*.tmp
+*.bak
+*.unitypackage
+*.DS_Store
+
+# Visual Studio / MonoDevelop generated
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
